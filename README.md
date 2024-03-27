@@ -24,13 +24,27 @@ El cálculo del interés diario se lleva a cabo mediante la implementación de l
 
 Para el cálculo de los intereses, se ha diseñado una tabla de rangos (TBL_TASA) la cual establece una tasa diaria variable dependiendo del rango de montos en que se encuentre la cuenta en el momento de la ejecución de dicho procedimiento almacenadol
 
-# Modelado
+# Modelado .NET
 
 Arquitectura: Repository
 
 Patrón de diseño: Dependency injection
 
 Framework de consulta de datos: EntityFramework
+
+# Modelado Base de datos
+
+Tablas
+•	TBL_CLIENTE
+•	TBL_CUENTA_BANCARIA
+•	TBL_HISTORICO_SALDOS
+•	TBL_TASA
+•	TBL_TIPO_TRANSACCION
+•	TBL_TRANSACCION
+
+Procedimientos Almacenados
+•	SP_MAN_TRANSACCION
+•	SP_CALCULAR_INTERES_DIARIO
 
 # Aspectos de seguriad
 
