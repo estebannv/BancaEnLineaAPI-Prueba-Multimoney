@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5SGsfWmzjowXhKFkB9AMdM8w3hAaEVRwXxXoVfmKVm8=",
+  "Source": "MiBancaEnLineaAPI",
+  "BasePath": "_content/MiBancaEnLineaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
