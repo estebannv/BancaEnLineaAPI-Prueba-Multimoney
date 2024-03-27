@@ -42,6 +42,6 @@ Se ha desarrollado un proyecto de pruebas, MiBancaEnLineaAPITest, el cual incluy
 
 # Ejecutar solución
 
-El script de base de datos se encuentra en la carpeta ScriptsBD.
+1. Ejecutar el script de base de datos qque se encuentra en la carpeta ScriptsDB.
 
-Es necesario establecer un datasource correcto en la cadena de conexión en appsettings.json.
+2. Establecer un datasource correcto en la cadena de conexión en appsettings.json.
