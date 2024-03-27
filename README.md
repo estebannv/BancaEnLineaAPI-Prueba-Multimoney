@@ -35,15 +35,23 @@ Framework de consulta de datos: EntityFramework
 # Modelado Base de datos
 
 Tablas
+
 •	TBL_CLIENTE
+
 •	TBL_CUENTA_BANCARIA
+
 •	TBL_HISTORICO_SALDOS
+
 •	TBL_TASA
+
 •	TBL_TIPO_TRANSACCION
+
 •	TBL_TRANSACCION
 
 Procedimientos Almacenados
+
 •	SP_MAN_TRANSACCION
+
 •	SP_CALCULAR_INTERES_DIARIO
 
 # Aspectos de seguriad
